@@ -1,8 +1,8 @@
 h1 { font-family: Roboto}
 .wrapper {
  margin: auto;
-    width: 80%;
-   border: dashed 1px red;
+  width: 80%;
+  border: dashed 1px red;
     }
     .menu__item {
          padding: 0 13px;
@@ -43,4 +43,3 @@ h1 { font-family: Roboto}
             margin-right: 100px;
             margin-bottom: 100px ;
         }
-        
