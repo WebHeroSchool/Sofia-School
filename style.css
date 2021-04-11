@@ -40,35 +40,28 @@ h1 {
 .logo_circle{
   position: absolute
   left: 0;
-  top: 50%;
-  transform: translateY(-50%)
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
-  opacity: 7;
+  }
+.logo{
+  width: 190px;
+  height: 35px;
+  background: url('logo.svg');
+ }
+.logo{
+  padding: 40px 0;
+  font:bold 24px/31px pt_serif;
 }
-.logo_circle_color_dark-blue{
-  background: #0056EC;
-}
-.logo__circle {
-  width: 28px;
-  height: 28px;
+.header {
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-between;
+ }
+.logo {
+  padding: 40px 0;
+  font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
+  width: 190px;
+  height: 35px;
   border: dashed 1px red;
-  } 
-.logo__circle_color_dark-blue {
-  background: #0056EC;
-  transform: translateY(-50%);
+  background: red;
 }
-.logo__circle_color_blue {
-  left: 8px;
-  top: 56%;
-  background: #C8DBFB;
-  } 
-  .main-content{
-    background: top right no-repeat url img/mainimg.svg;
-  }
-  .background__logo{
-    width: 190px;
-    height: 35px;
-    background: url img/logo.svg;
-  }
+background: url('img/logo.svg');
+ 
