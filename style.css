@@ -20,13 +20,13 @@ h1 {
 .logo {
   font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
   width: 190px;
-  height:28px;
+  height:35px;
   background: url('logo.svg');
   background-repeat: no-repeat;
 }
 .menu__item {
   position:relative;
-  margin: 0 13px;
+  margin: 0 10px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
   color: #000000;
   text-decoration: none;
