@@ -12,6 +12,7 @@ h1 {
   padding: 40px 0;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 100px;
 }
 .menu {
   display: flex;
@@ -46,4 +47,21 @@ h1 {
 }
  .menu__item:hover:after, .menu__item_active:after {
   opacity: 1;
+}
+.main__title-text_highlight {
+  background: #ECF3FF;
+}
+.main-content__title {
+  margin: 0 0 50px 0;
+  font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+}
+.main-content__subtitle {
+  margin: 0 0 41px 0;
+  font: px12/14px Roboto, arial, helvetica, sans-serif;
+}
+.main {;
+  padding-right: 63%;
+  background-repeat: no-repeat;
+  background-position: top right;
+  background: top right no-repeat url(mainImg.svg);
 }
