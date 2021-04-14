@@ -51,17 +51,18 @@ h1 {
 .main__title {
   background: #ECF3FF;
   margin: 0 0 50px 0;
-  font-size: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+  font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
 }
 .main__content {
   margin: 0 0 41px 0;
-  font: 66px/88px Roboto, arial, helvetica, sans-serif;
+  font: 60px/45px Roboto, arial, helvetica, sans-serif;
 }
 .main {
-  padding: 0 100% 100px 0px;
+  padding: 0 100% 100x 0px;
   padding-right: 63%;
   padding-bottom: 600px;
   background-repeat: no-repeat;
+  background-size: 10%;
   background-position: top right;
   background: top right no-repeat url(mainImg.svg);
 }
