@@ -48,19 +48,17 @@ h1 {
  .menu__item:hover:after, .menu__item_active:after {
   opacity: 1;
 }
-.main__title-text_highlight {
+.main__title {
   background: #ECF3FF;
-}
-.main-content__title {
   margin: 0 0 50px 0;
   font-size: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
 }
-.main-content__subtitle {
+.main__content {
   margin: 0 0 41px 0;
   font: 14px/16px Roboto, arial, helvetica, sans-serif;
 }
 .main {
-  padding: 0 63% 100px 0px;
+  padding: 0 100% 100px 0px;
   padding-right: 63%;
   padding-bottom: 600px;
   background-repeat: no-repeat;
