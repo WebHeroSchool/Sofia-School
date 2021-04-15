@@ -53,14 +53,14 @@ h1 {
   margin: 0 0 50px 0;
   font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
 }
-.main__content {
+.main__subtitle {
   margin: 0 0 41px 0;
-  font: 87px/45px Roboto, arial, helvetica, sans-serif;
+  font: 18px/21px Roboto, arial, helvetica, sans-serif;
 }
-.main {
+.main__button {
   padding: 0 100% 100x 0px;
   padding-right: 63%;
-  padding-bottom: 600px;
+  padding-bottom: 100px;
   background: top right no-repeat url(mainImg.svg);
   background-size: 55%;
 }
