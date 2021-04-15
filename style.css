@@ -27,7 +27,7 @@ h1 {
 .menu__item {
   position:relative;
   margin: 0 10px;
-  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+  font: 500 22px/26px Roboto, arial, helvetica, sans-serif;
   color: #000000;
   text-decoration: none;
 }
@@ -58,9 +58,10 @@ h1 {
   font: 18px/21px Roboto, arial, helvetica, sans-serif;
 }
 .main__button {
-  padding: 0 100% 100x 0px;
-  padding-right: 63%;
-  padding-bottom: 100px;
+  
+  
+}
+.main {
+  padding: 0 55% 100px 0;
   background: top right no-repeat url(mainImg.svg);
-  background-size: 55%;
 }
