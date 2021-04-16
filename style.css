@@ -52,26 +52,28 @@ body {
   opacity: 1;
 }
 .main__title {
-  margin: 0 0 50px 0;
+  margin: 0 0 33px 0;
   font: bold 66px/87px pt_serifbold, arial, helvetica, sans-serif;
   padding-top: 101px;
 }
 .main__subtitle {
-  margin: 0 0 41px 0;
-  font: 500 26px/28px 'Roboto', arial, helvetica, sans-serif;
+  max-width: 421px;
+  margin: 0px 0 42px 3px;
+  font: 500 22px/26px 'Roboto', arial, helvetica, sans-serif;
   width: 76%;
+  letter-spacing: 0px;
 }
 .main__button {
-  font: 18px/22px Roboto, arial, helvetica, sans-serif; 
+  font: 18px/21px Roboto, arial, helvetica, sans-serif; 
   width: 40%;
   color: #000000; 
   background: #0056EC;
-  padding: 18px 20px;
+  padding: 18px 21px;
   text-decoration: none;
   border-radius: 4px;
 }
 .main {
-  padding: 0 55% 100px 0;
+  padding: 0 55% 63px 0;
   background: top right no-repeat url(mainImg.svg);
-  background-size: 55%;
+  background-size: 51%;
 }
