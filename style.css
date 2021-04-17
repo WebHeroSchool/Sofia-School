@@ -55,6 +55,7 @@ body {
   margin: 0 0 33px 0;
   font: bold 66px/87px pt_serifbold, arial, helvetica, sans-serif;
   padding-top: 101px;
+  background: #ECF3FF;
 }
 .main__subtitle {
   max-width: 421px;
@@ -66,7 +67,7 @@ body {
 .main__button {
   font: 18px/21px Roboto, arial, helvetica, sans-serif; 
   width: 40%;
-  color: #000000; 
+  color:#FFFFFF;
   background: #0056EC;
   padding: 18px 21px;
   text-decoration: none;
