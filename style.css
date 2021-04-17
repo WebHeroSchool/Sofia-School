@@ -55,7 +55,9 @@ body {
   margin: 0 0 33px 0;
   font: bold 66px/87px pt_serifbold, arial, helvetica, sans-serif;
   padding-top: 101px;
-  background: #ECF3FF;
+}
+.main__title-text_highlight {
+  background: #ecf3ff;
 }
 .main__subtitle {
   max-width: 421px;
