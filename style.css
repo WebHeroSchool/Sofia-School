@@ -19,8 +19,8 @@ body {
   align-items: center;
 }
 .logo {
-  width: 190px;
-  height:35px;
+  width: 209px;
+  height:31px;
   background: url('logo.svg');
   background-repeat: no-repeat;
 }
@@ -61,17 +61,18 @@ body {
 }
 .main__subtitle {
   max-width: 421px;
-  margin: 0px 0 42px 3px;
+  margin: 0px 0 44px 4px;
   font: 500 22px/26px 'Roboto', arial, helvetica, sans-serif;
   width: 76%;
   letter-spacing: 0px;
 }
 .main__button {
-  font: 18px/21px Roboto, arial, helvetica, sans-serif; 
+  font: 18px/21px Roboto, arial, helvetica, sans-serif;
   width: 40%;
   color:#FFFFFF;
   background: #0056EC;
-  padding: 18px 21px;
+  width: 271px;
+  height: 57px;
   text-decoration: none;
   border-radius: 4px;
 }
@@ -79,4 +80,7 @@ body {
   padding: 0 55% 63px 0;
   background: top right no-repeat url(mainImg.svg);
   background-size: 51%;
-}
+} 
+.main {
+  padding: 0 66% 100px 0;
+} 
