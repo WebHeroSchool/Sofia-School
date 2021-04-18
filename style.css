@@ -71,7 +71,7 @@ body {
   width: 40%;
   color:#FFFFFF;
   background: #0056EC;
-  width: 271px;
+  width: 275px;
   height: 57px;
   text-decoration: none;
   border-radius: 4px;
@@ -80,7 +80,4 @@ body {
   padding: 0 55% 63px 0;
   background: top right no-repeat url(mainImg.svg);
   background-size: 51%;
-} 
-.main {
-  padding: 0 66% 100px 0;
 } 
