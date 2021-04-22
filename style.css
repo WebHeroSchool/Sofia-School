@@ -12,7 +12,7 @@ body {
   padding: 40px 0;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 100px;
+  margin-bottom: 127px;
 }
 .menu {
   display: flex;
@@ -54,7 +54,7 @@ body {
 .main__title {
   margin: 0 0 33px 0;
   font: bold 66px/87px pt_serifbold, arial, helvetica, sans-serif;
-  padding-top: 101px;
+  padding-top: 75px;
 }
 .main__title-text_highlight {
   background: #ecf3ff;
@@ -79,5 +79,4 @@ body {
 .main {
   padding: 0 55% 63px 0;
   background: top right no-repeat url(mainImg.svg);
-  background-size: 51%;
 } 
