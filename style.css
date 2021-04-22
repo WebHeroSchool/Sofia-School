@@ -77,7 +77,6 @@ body {
   border-radius: 4px;
 }
 .main {
-  padding: 0 55% 63px 0;
+  padding: 0 55% 150px 0;
   background: top right no-repeat url(mainImg.svg);
-  background-size: 51%;
-} 
+}
