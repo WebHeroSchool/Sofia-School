@@ -15,12 +15,11 @@ body {
   margin-bottom: 127px;
 }
 .menu {
-  display: none;
-  align-items: center;
+  display: flex;
 }
 .logo {
-  width: 190px;
-  height:35px;
+  width: 209px;
+  height:31px;
   background: url('logo.svg');
   background-repeat: no-repeat;
   text-decoration: none;
@@ -46,16 +45,15 @@ body {
   opacity: 0;
   transition: opacity .5s;
 }
- .menu__item:hover {
+.menu__item:hover {
   opacity: 0.5;
  }
- .menu__item:hover:after, .menu__item_active:after {
+.menu__item:hover:after, .menu__item_active:after {
   opacity: 1;
 }
 .main__title {
   margin: 0 0 33px 0;
   font: bold 66px/87px pt_serifbold, arial, helvetica, sans-serif;
-  padding-left: 75px;
 }
 .main__title-text_highlight {
   background: #ecf3ff;
@@ -78,7 +76,7 @@ body {
   border-radius: 4px;
 }
 .main {
-  padding: 0 55% 63px 0;
+  padding: 0 55% 150px 0;
   background: top right no-repeat url(mainImg.svg);
   background-size: 51%;
 }
