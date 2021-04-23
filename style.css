@@ -9,21 +9,18 @@ body {
 .header {
   margin: auto;
   border: dashed 1px red;
-  padding: 10px 0;
+  padding: 40px 0;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 28px;
-  padding-top: 24px;
-  padding-left: 24px;
+  margin-bottom: 127px;
 }
-@media (max-width: 768px) {
 .menu {
   display: none;
   align-items: center;
 }
 .logo {
-  width: 209px;
-  height:31px;
+  width: 190px;
+  height:35px;
   background: url('logo.svg');
   background-repeat: no-repeat;
   text-decoration: none;
@@ -56,43 +53,32 @@ body {
   opacity: 1;
 }
 .main__title {
-  margin-bottom: 44px;
-  font: bold 30px/39px pt_serifbold, arial, helvetica, sans-serif;
-  padding-left: 26px;
+  margin: 0 0 33px 0;
+  font: bold 66px/87px pt_serifbold, arial, helvetica, sans-serif;
+  padding-left: 75px;
 }
 .main__title-text_highlight {
   background: #ecf3ff;
 }
 .main__subtitle {
-  font: 500 16px/19px 'Roboto', arial, helvetica, sans-serif;
-  width: 67%;
+  max-width: 421px;
+  margin: 0px 0 44px 3px;
+  font: 500 22px/26px 'Roboto', arial, helvetica, sans-serif;
+  width: 76%;
   letter-spacing: 0px;
-  padding-left: 63px;
 }
 .main__button {
-  font:500 16px/18px Roboto, arial, helvetica, sans-serif;
+  font: 18px/21px Roboto, arial, helvetica, sans-serif;
   width: 40%;
   color:#FFFFFF;
   background: #0056EC;
-  width: 275px;
+  width: 271px;
   height: 57px;
   text-decoration: none;
   border-radius: 4px;
 }
 .main {
-  text-align: center;
-  padding: 66% 0 0;
+  padding: 0 55% 63px 0;
   background: top right no-repeat url(mainImg.svg);
-  background-size: 74%;
-  background-position: top center;
-}
-@media (min-width: 320px) {
-.wrap__title {
-  font-size: 15px;
-  }
-}
-@media (min-width: 641px) {
-  .wrap__title {
-    font-size: 32px;
-  }
+  background-size: 51%;
 }
