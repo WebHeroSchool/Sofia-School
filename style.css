@@ -65,7 +65,7 @@ body {
 }
 .main__subtitle {
   max-width: 421px;
-  margin: 0px 0 99px 3px;
+  margin: 0px 0 42px 3px;
   font: 500 22px/26px 'Roboto', arial, helvetica, sans-serif;
   width: 76%;
   letter-spacing: 0px;
@@ -83,7 +83,7 @@ body {
 }
 .main {
   padding: 0 55% 150px 0;
-  background: top right no-repeat url(mainImg.svg);
-  background-size: 45%;
+  background: top 15px right 41px no-repeat url(mainImg.svg);
+  background-size: 44%;
   margin-right: 153px;
 }
