@@ -91,20 +91,24 @@ body {
 .menu{
   display: none;
 }
-.header
+.header{
  margin-bottom: 24px;
+ margin-bottom: 24px;
+ margin-left: 24px;
+ background-position: top center;
 }
 .main{
   text-align: center;
   padding: 25% 0 0;
-  background-size: 64%;
+  background-size: 74%;
+  background-position: top center;
 }
 .main__title{
+  text-align: center;
   font: 30px/40px pt_serifbold, arial, helvetica, sans-serif;
   font-size: 30px;
   line-height: 40px;
   margin-bottom: 44px;
-  text-align: center;
   background-position: top center;
 }
 .main__subtitle{
@@ -125,4 +129,5 @@ body {
 .logo{
   background: url('logo2.svg');
   background-repeat: no-repeat;
+  }
 }
