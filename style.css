@@ -87,3 +87,42 @@ body {
   background-size: 44%;
   margin-right: 153px;
 }
+@media(max-width:375px){
+.menu{
+  display: none;
+}
+.header
+ margin-bottom: 24px;
+}
+.main{
+  text-align: center;
+  padding: 25% 0 0;
+  background-size: 64%;
+}
+.main__title{
+  font: 30px/40px pt_serifbold, arial, helvetica, sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+  margin-bottom: 44px;
+  text-align: center;
+  background-position: top center;
+}
+.main__subtitle{
+  font: 500 roboto 16px/19px pt_serifbold, arial, helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+  margin-bottom: 25px;
+  text-align: center;
+  background-position: top center;
+}
+.main__button{
+  font: 500 roboto 14px/16px pt_serifbold, arial, helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  background-position: top center;
+}
+.logo{
+  background: url('logo2.svg');
+  background-repeat: no-repeat;
+}
