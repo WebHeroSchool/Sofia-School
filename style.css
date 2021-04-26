@@ -9,10 +9,10 @@ body {
 .header {
   margin: auto;
   border: dashed 1px red;
-  padding: 20px 0;
+  padding: 39px 0;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 121px;
+  margin-bottom: 102px;
   margin-left: 197px;
 }
 .menu {
@@ -92,15 +92,15 @@ body {
   display: none;
 }
 .header{
- margin-bottom: 24px;
- margin-bottom: 24px;
+  padding: 39px 0;
+  display: flex;
+ margin-bottom: 28px;
  margin-left: 24px;
- background-position: top center;
 }
 .main{
   text-align: center;
   padding: 25% 0 0;
-  background-size: 74%;
+  background-size: 90%;
   background-position: top center;
 }
 .main__title{
@@ -108,7 +108,7 @@ body {
   font: 30px/40px pt_serifbold, arial, helvetica, sans-serif;
   font-size: 30px;
   line-height: 40px;
-  margin-bottom: 44px;
+  margin-bottom: 32px;
   background-position: top center;
 }
 .main__subtitle{
