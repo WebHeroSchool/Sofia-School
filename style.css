@@ -92,6 +92,7 @@ body {
   display: none;
 }
 .header{
+  text-align: center;
   padding: 39px 0;
   display: flex;
  margin-bottom: 28px;
@@ -109,22 +110,18 @@ body {
   font-size: 30px;
   line-height: 40px;
   margin-bottom: 32px;
-  background-position: top center;
 }
 .main__subtitle{
+  text-align: center;
   font: 500  16px/19px roboto pt_serifbold, arial, helvetica, sans-serif;
   font-size: 16px;
   line-height: 19px;
-  margin-bottom: 25px;
-  text-align: center;
-  background-position: top center;
 }
 .main__button{
   font: 500  14px/16px roboto pt_serifbold, arial, helvetica, sans-serif;
   font-size: 14px;
   line-height: 16px;
   text-align: center;
-  background-position: top center;
 }
 .logo{
   background: url('logo2.svg');
