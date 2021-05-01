@@ -143,9 +143,9 @@ body {
   text-align: center;
   background-size: 90%;
   background-position: top center;
-  font: 500  16px/19px Roboto,pt_serifbold, arial, helvetica, sans-serif;
+  font: 500  16px/18px Roboto,pt_serifbold, arial, helvetica, sans-serif;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 18px;
   padding-left: 49px;
 }
 .main__button {
@@ -153,8 +153,8 @@ body {
   font: 500  14px/16px Roboto, pt_serifbold, arial, helvetica, sans-serif;
   font-size: 14px;
   line-height: 16px;
-  height: 55px;
-  width: 216px;
+  height: 44px;
+  width: 209px;
 }
 .logo{
   background: url('logo2.svg');
