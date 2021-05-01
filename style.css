@@ -17,8 +17,8 @@ body {
 .menu {
   display: flex;
   margin-right: 195px;
-  padding: 10px;
    margin-left: 0px;
+   padding-left: 150px;
 }
 .logo {
   width: 209px;
@@ -159,6 +159,9 @@ body {
 }
 #menu__toggle {
   opacity: 0;
+}
+.hamburger-menu {
+  display: none;
 }
 .menu__btn > span,
 .menu__btn > span::before,
