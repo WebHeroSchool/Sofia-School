@@ -129,6 +129,8 @@ body {
   padding: 25% 0 0;
   background-size: 90%;
   background-position: top center;
+  margin: 10px;
+  padding-top: 155px;
 }
 .main__title {
   text-align: center;
@@ -144,12 +146,15 @@ body {
   font: 500  16px/19px Roboto,pt_serifbold, arial, helvetica, sans-serif;
   font-size: 16px;
   line-height: 19px;
+  padding-left: 49px;
 }
 .main__button {
   text-align: center;
   font: 500  14px/16px Roboto, pt_serifbold, arial, helvetica, sans-serif;
   font-size: 14px;
   line-height: 16px;
+  height: 55px;
+  width: 216px;
 }
 .logo{
   background: url('logo2.svg');
