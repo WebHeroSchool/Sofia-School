@@ -158,17 +158,6 @@ body {
 #menu__toggle {
   opacity: 0;
 }
-.menu__btn {
-  display: flex;
-  align-items: center;  
-  position: fixed;
-  top: 20px;
-  left: 20px;
-  width: 26px;
-  height: 26px;
-  cursor: pointer;
-  z-index: 1;
-}
 .menu__btn > span,
 .menu__btn > span::before,
 .menu__btn > span::after {
