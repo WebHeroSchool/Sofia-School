@@ -102,23 +102,23 @@ body {
   padding: 24px 24px 0;
   display: flex;
   margin-bottom: 28px;
-  padding-left: 24px;
 }
 .main {
   text-align: center;
   padding: 25% 0 0;
   background-size: 90%;
-{
+}
 .main__title {
   text-align: center;
-  font: 30px/40px pt_serifbold, arial, helvetica, sans-serif;
-  font-size: 30px;
-  line-height: 40px;
-  margin-bottom: 32px;
+  margin: 0 0 33px 0;
+  font: bold 20px/40px pt_serifbold, arial, helvetica, sans-serif;
+  padding-top: 121px;
+  font-size: 22px;
+
 }
 .main__subtitle {
   text-align: center;
-  font: 500  16px/19px Roboto,pt_serifbold, arial, helvetica, sans-serif;
+  font: 500  16px/19px Roboto, pt_serifbold, arial, helvetica, sans-serif;
   font-size: 16px;
   line-height: 19px;
 }
@@ -131,5 +131,5 @@ body {
 .logo{
   background: url('logo2.svg');
   background-repeat: no-repeat;
-  }
-}
+   }
+} 
