@@ -90,6 +90,12 @@ body {
   margin-right: 153px;
   margin-left: 0px;
 }
+.menu__toggle {
+  display: none;
+}
+.menu__box {
+  display: none;
+}
 @media(max-width:375px){
 .menu{
   display: none;
