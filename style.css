@@ -9,14 +9,14 @@ body {
 .header {
   margin: auto;
   border: dashed 1px red;
-  padding: 36px 0;
+  padding: 45px 0;
   display: flex;
   justify-content: space-between;
-  margin-left: 190px;
+  margin-left: 195px;
 }
 .menu {
   display: flex;
-  margin-right: 195px;
+  margin-right: 205px;
    margin-left: 0px;
    padding-left: 150px;
 }
@@ -60,7 +60,7 @@ body {
   margin: 0 0 33px 0;
   font: bold 66px/87px pt_serifbold, arial, helvetica, sans-serif;
   margin-left: 197px;
-  padding-top: 92px;
+  padding-top: 176px;
 }
 .main__title-text_highlight {
   background: #ecf3ff;
@@ -214,6 +214,7 @@ body {
   }
 #menu__toggle {
   opacity: 0;
+  display: none;
 }
 .menu__item {
   display: block;
