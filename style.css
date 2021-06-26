@@ -322,8 +322,6 @@ body {
     background: url('logo1024.svg');
     background-repeat: no-repeat;
   }
-  #menu__toggle {
-    opacity: 0;
   }
   @media(max-width:1366px){
     .menu{
@@ -391,8 +389,5 @@ body {
     .logo{
       background: url('logo1366.svg');
       background-repeat: no-repeat;
-    }
-    #menu__toggle {
-      opacity: 0;
     }
   }
