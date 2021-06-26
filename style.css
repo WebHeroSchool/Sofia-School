@@ -255,7 +255,7 @@ body {
   transition-duration: .25s;
   }
 }
-@media(max-width:1024px){
+@media(max-width:1366px){
   .menu{
     display: none;
   }
@@ -319,11 +319,11 @@ body {
     width: 209px;
   }
   .logo{
-    background: url('logo1024.svg');
+    background: url('logo1366.svg');
     background-repeat: no-repeat;
   }
   }
-  @media(max-width:1366px){
+  @media(max-width:1024px){
     .menu{
       display: none;
     }
@@ -387,7 +387,7 @@ body {
       width: 209px;
     }
     .logo{
-      background: url('logo1366.svg');
+      background: url('logo1024.svg');
       background-repeat: no-repeat;
     }
   }
