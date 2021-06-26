@@ -319,13 +319,13 @@ body {
     width: 209px;
   }
   .logo{
-    background: url('logo1366.svg');
+    background: url('logo1024.svg');
     background-repeat: no-repeat;
   }
   #menu__toggle {
     opacity: 0;
   }
-  @media(max-width:1024px){
+  @media(max-width:1366px){
     .menu{
       display: none;
     }
@@ -389,7 +389,7 @@ body {
       width: 209px;
     }
     .logo{
-      background: url('logo1024.svg');
+      background: url('logo1366.svg');
       background-repeat: no-repeat;
     }
     #menu__toggle {
